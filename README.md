@@ -1,3 +1,9 @@
+# Notes
+
+I followed the tutorial made by Asim from codecraft and tried to apply the latest versions of all the dependencies.
+
+Original README starts here:
+
 # AngularJS Migration Workshop
 
 This the sample project used in the workshop by [Asim Hussain](http://twitter.com/jawache) from [codecraft.tv](codecraft.tv) on _Migrating from AngularJS_
